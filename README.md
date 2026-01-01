@@ -12,4 +12,4 @@
 ##### چجوری با پشتیبانی ارتباط برقرار کنیم؟
 به ایمیل زیر ارتباط برقرار کنید!
 ```txet
-configfars@gmail.com```
+configfars@gmail.com
